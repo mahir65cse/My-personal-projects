@@ -1,0 +1,9 @@
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+}
+nav li:hover{
+    background-color: brown;
+}
